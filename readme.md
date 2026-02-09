@@ -1,8 +1,8 @@
-# Flutter Welcome App
+# Sticker App (always be a loyal)
 
 A simple Flutter app demonstrating basic UI and state management.
 
-This is our File Structure 
+2. ) "This is our File Structure "
 
 lib/(main)
 
@@ -15,7 +15,7 @@ models/ → data classes
 services/ → API logic
 
 
-For run
+ 3.) " Setup Instructions "
 
 flutter doctor
 
@@ -24,7 +24,12 @@ flutter pub get
 flutter run
 
 This is the screenshot of the app
-[img.png](img.png)
+
+
+ 4.) "Screenshot" 
+
+Img :  [img_1.png](img_1.png)
+
 
 
 
